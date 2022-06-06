@@ -12,4 +12,4 @@ Also, note that game has only been tested on Windows OS, not MAC OS. I sincerely
 
 
 ## Credits 
-All photographs within the Space Invader game are taken from the Interent and are copy-right free. 
+All photographs within the Space Invader game are taken from the Interent and are copy-right free. The music is royalty free music from SoundCloud.com
