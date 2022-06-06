@@ -11,4 +11,4 @@ Use a Java Integrated Development Environment, such as Eclipse, to run the code.
 Pull requests are welcome, but please credit. As this project was developed with a relatively intermediate knowledge of programing (based on knowledge taught from school), the code might not be the most optimal. I sincerely apologize. 
 
 ## Credits 
-All photographs are taken from the Interent and are copy-right free. 
+All photographs within the Space Invader game are taken from the Interent and are copy-right free. 
