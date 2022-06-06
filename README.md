@@ -1,4 +1,4 @@
-# Space Invader (a recreation by Hang Pham)
+# Brick Breaker (a recreation by Hang Pham)
 
 The following project provides a recreation of the popular game Space Invader, with some novel functionalities. This was one of Hang's many Java projects during her studies in high school, where she redeveloped games that played a huge role in her childhood. Note that this game has only been tested on Windows OS, not Mac OS. Therefore, playing on Mac OS might lead to incompatible fonts and other issues.
 
@@ -11,4 +11,4 @@ Pull requests are welcome but please credit Hang Pham. As this project was devel
 
 
 ## Credits 
-All photographs within the Space Invader game are taken from the Internet and are copy-right free. The music is royalty-free music from SoundCloud.com
+All photographs within the Brick Breaker game are taken from the Internet and are copy-right free. The music is royalty-free music from SoundCloud.com
